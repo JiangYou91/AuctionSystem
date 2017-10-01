@@ -1,0 +1,6 @@
+mapname:example1
+diamonds:5:50
+treasure:7:100
+agent:Agent1:6:80:-1
+agent:Agent2:4:10:-1
+agent:Agent3:7:-1:51

@@ -1,0 +1,11 @@
+mapname:example1
+diamonds:90:18
+diamonds:50:48
+diamonds:40:18
+diamonds:20:40
+treasure:70:15
+treasure:11:100
+treasure:99:18
+agent:Explo1:27:80
+agent:Explo2:97:17
+wumpus:Golem:33
